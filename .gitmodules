@@ -1,12 +1,20 @@
 [submodule "uruit"]
-    path = uruit
-    url = https://irabaza:manager123@git.opensur.com/clientes/uruit.git
-    branch = prod
+	path = uruit
+	url = https://irabaza:manager123@git.opensur.com/clientes/uruit.git
+	branch = prod
 [submodule "OCA/web"]
-    path = OCA/web
-    url = https://github.com/OCA/web.git
-    branch = 12.0
+	path = OCA/web
+	url = https://github.com/OCA/web.git
+	branch = 12.0
 [submodule "opensur/fe"]
-    path = opensur/fe
-    url = https://irabaza:manager123@git.opensur.com/uruguay/fe_new.git
-    branch = uruit.prod
+	path = opensur/fe
+	url = https://irabaza:manager123@git.opensur.com/uruguay/fe_new.git
+	branch = uruit.prod
+[submodule "OCA/multi-company"]
+	path = OCA/multi-company
+	url = https://github.com/OCA/multi-company.git
+	branch = 12.0
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = https://github.com/OCA/server-tools.git
+	branch = 12.0
