@@ -1,6 +1,6 @@
 [submodule "uruit"]
 	path = uruit
-	url = https://irabaza:manager123@git.opensur.com/clientes/uruit.git
+	url = git@git.opensur.com:clientes/uruit.git
 	branch = master
 [submodule "OCA/web"]
 	path = OCA/web
