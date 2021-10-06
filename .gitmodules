@@ -1,6 +1,6 @@
 [submodule "uruit"]
 	path = uruit
-	url = https://irabaza:manager123@git.opensur.com/clientes/uruit.git
+	url = git@git.opensur.com:clientes/uruit.git
 	branch = prod
 [submodule "OCA/web"]
 	path = OCA/web
@@ -8,7 +8,7 @@
 	branch = 12.0
 [submodule "opensur/fe"]
 	path = opensur/fe
-	url = https://irabaza:manager123@git.opensur.com/uruguay/fe_new.git
+	url = git@git.opensur.com:uruguay/fe_new.git
 	branch = uruit.prod
 [submodule "OCA/multi-company"]
 	path = OCA/multi-company
@@ -32,5 +32,5 @@
 	branch = 12.0
 [submodule "opensur/kpi"]
 	path = opensur/kpi
-	url = https://irabaza:manager123@git.opensur.com/laboratorio/kpi_dashboard.git
+	url = git@git.opensur.com:laboratorio/kpi_dashboard.git
 	branch = 12.0
