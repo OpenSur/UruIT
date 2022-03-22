@@ -22,10 +22,6 @@
 	path = OCA/contract
 	url = https://github.com/OCA/contract.git
 	branch = 12.0
-[submodule "OCA/account-closing"]
-	path = OCA/account-closing
-	url = https://github.com/OCA/account-closing.git
-	branch = 12.0
 [submodule "OCA/server-backend"]
 	path = OCA/server-backend
 	url = https://github.com/OCA/server-backend.git
