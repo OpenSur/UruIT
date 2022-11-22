@@ -1,6 +1,6 @@
 [submodule "opensur/fe"]
 	path = opensur/fe
-	url = git@git.opensur.com:uruguay/fe_new.git
+	url = https://irabaza:managerg1t@git.opensur.com/uruguay/fe_new.git
 	branch = uruit.test
 [submodule "uruit"]
 	path = uruit
