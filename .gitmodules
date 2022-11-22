@@ -2,14 +2,14 @@
 	path = uruit
 	url = git@git.opensur.com:clientes/uruit.git
 	branch = master
-[submodule "OCA/web"]
-	path = OCA/web
-	url = https://github.com/OCA/web.git
-	branch = 12.0
 [submodule "opensur/fe"]
 	path = opensur/fe
 	url = git@git.opensur.com:uruguay/fe_new.git
 	branch = uruit.test
+[submodule "OCA/web"]
+	path = OCA/web
+	url = https://github.com/OCA/web.git
+	branch = 12.0
 [submodule "OCA/multi-company"]
 	path = OCA/multi-company
 	url = https://github.com/OCA/multi-company.git
