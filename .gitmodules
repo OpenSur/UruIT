@@ -1,7 +1,3 @@
-[submodule "opensur/kpi"]
-	path = opensur/kpi
-	url = git@git.opensur.com:laboratorio/kpi_dashboard.git
-	branch = 12.0
 [submodule "uruit"]
 	path = uruit
 	url = git@git.opensur.com:clientes/uruit.git
@@ -10,6 +6,10 @@
 	path = opensur/fe
 	url = git@git.opensur.com:uruguay/fe_new.git
 	branch = uruit.test
+[submodule "opensur/kpi"]
+	path = opensur/kpi
+	url = git@git.opensur.com:laboratorio/kpi_dashboard.git
+	branch = 12.0
 [submodule "OCA/web"]
 	path = OCA/web
 	url = https://github.com/OCA/web.git
