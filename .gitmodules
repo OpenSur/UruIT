@@ -10,6 +10,10 @@
 	path = opensur/kpi
 	url = git@git.opensur.com:laboratorio/kpi_dashboard.git
 	branch = 12.0
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = https://github.com/OCA/contract.git
+	branch = 12.0
 [submodule "OCA/web"]
 	path = OCA/web
 	url = https://github.com/OCA/web.git
@@ -21,10 +25,6 @@
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
 	url = https://github.com/OCA/server-tools.git
-	branch = 12.0
-[submodule "OCA/contract"]
-	path = OCA/contract
-	url = https://github.com/OCA/contract.git
 	branch = 12.0
 [submodule "OCA/server-backend"]
 	path = OCA/server-backend
